@@ -1,0 +1,162 @@
+/* html {
+    overflow-y: scroll;
+} */
+#addFormTitle{
+    color: #072ed5 !important;
+    font-weight: 500;
+    /* font-size: 20px; */
+}
+#addform-box .text-info{
+    /* font-size: 16px; */
+}
+.modal-body #note{
+    height: 200px;
+}
+/* th{
+    background-color: #dadddd;
+    color: #05697d ;
+    font-weight: bold !important;
+     font-size: 16px; 
+    padding: 15px !important;
+}
+td{
+    color: #05697d ;
+    padding: 15px !important;
+} */
+/* .odd{
+    background-color: #e7eaeb !important;
+}
+.even{
+    background-color: #9fb6b6 !important;
+} */
+
+/* tbody{
+    margin: 5px;
+} */
+.m-content{
+    margin-top: 10px;
+}
+.m-content .far{
+    margin-right: 5px;
+}
+ th{
+    font-size: 16px !important;
+}
+ td{
+    font-size: 15px;
+}
+.note i{
+    /* font-size: 18px; */
+    margin-right: 30px !important;
+}
+
+/* table i{
+    font-size: 16px !important;
+} */
+
+.field-icon {
+    float: right;
+    margin-right: 7px;
+    margin-top: -25px;
+    position: relative;
+    z-index: 2;
+  }
+
+.generate-password{
+    margin-top:27px;
+}
+.file-upload{
+    display: none;
+}
+.profile-pic{
+    width: 130px;
+    height: 130px;
+}
+
+.p-picture{
+    position: relative;
+}
+.p-image{
+    position: absolute;
+    bottom: 32px;
+    right: 13px;
+}
+.p-image .fa-camera{
+    font-size: 20px;
+}
+.p-image:hover{
+    color: #88898a;
+}
+
+.copyusername:hover{
+    cursor: pointer;
+}
+
+.text-container{
+    display:flex;
+}
+
+.text-overflow {
+    -ms-text-overflow: ellipsis;
+    -o-text-overflow: ellipsis;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    overflow: hidden;
+}
+#users li{
+    height: 35px;
+}
+.btn-del-email{
+    float: right;
+}
+.groupcontent{
+    margin: 30px;
+}
+.group-section{
+    margin: 30px;
+}
+
+#group-user{
+    position: relative;
+}
+#group-account{
+    position: relative;
+}
+.header{
+    position: absolute;
+    right: 69px;
+    top: -52px;
+}
+.custom-file-control:lang(vi):empty::after {
+    content: "Chọn tập tin..."; }
+.custom-file-control:lang(vi)::before {
+    content: "Chọn"; }
+
+#m_header_nav{
+    position: relative;
+}
+.search-container{
+    position: absolute;
+    left: 143px;
+    top: 20px;
+}
+#group-user i{
+    font-size: 20px;
+    margin:5px;
+}
+
+.get-content
+{
+    position: relative;
+}
+
+#getContent{
+    position: absolute;
+    top: -15px;
+    right: 0px;
+    z-index: 1;
+}
+
+.hide {
+    display: none;
+}
